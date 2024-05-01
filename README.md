@@ -15,7 +15,7 @@ To play the game, follow these steps:
 ### Files
 + index.html: Contains the structure of the game interface.
 + style.css: Defines the styles and layout of the game interface.
-+ games.js: Contains the game logic and event handlers.
++ game.js: Contains the game logic and event handlers.
 + script.js: Includes additional game functionality and functions for generating the target number, comparing guesses, updating scores, and advancing rounds.
 
 ### How to Run
